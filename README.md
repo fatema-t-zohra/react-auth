@@ -2,6 +2,7 @@
 **Course:** Tools & Technologies for Internet Programming  
 **Student Name:** Fatema Tuz Zohra  
 **Student ID:** C243407
+
 A small React application that demonstrates **React Router**, **Firebase Authentication** (Email/Password) and **Protected Routes**.
 ## Features
 
