@@ -30,6 +30,7 @@ A small React application that demonstrates **React Router**, **Firebase Authent
 * Plain CSS
 
 ## Project Structure
+```
 src/
 ├── components/
 │   ├── Navbar.jsx          # Links change based on login state
@@ -46,6 +47,7 @@ src/
 ├── firebase.js             # Firebase initialization
 ├── index.css
 └── main.jsx                # BrowserRouter + AuthProvider
+```
 ## How to Run
 
 1. Install Node.js (LTS version).
